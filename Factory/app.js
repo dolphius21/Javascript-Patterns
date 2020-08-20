@@ -42,7 +42,7 @@ members.push(factory.createMember('Jeffrey Winger', 'super'));
 members.push(factory.createMember('Abed Nadir', 'standard'));
 members.push(factory.createMember('Annie Edison', 'standard'));
 members.push(factory.createMember('Britta Perry', 'simple'));
-members.push(factory.createMember('Troy Barnes', 'standard'));
+members.push(factory.createMember('Troy Barnes', 'simple'));
 
 console.log(members);
 
